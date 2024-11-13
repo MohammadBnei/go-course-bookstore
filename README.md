@@ -59,7 +59,6 @@ The course is divided into several modules, each focusing on different aspects o
   - **/module4**: Functions and Modules
 
 - **/components**: Templ components for rendering HTML.
-- **/templates**: HTML templates used in the project.
 - **/data**: Sample data files (e.g., JSON files for book data).
 - **main.go**: Entry point for the Bookstore application.
 
